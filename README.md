@@ -67,7 +67,7 @@ git clone https://github.com/lukasg96/z0-precisionmeasurement.git
 1. Start `jupyter-lab` (or `jupyter-notebook` if you prefer) in the
     environment. This will usually open your browesr automatically.
 
-2. navigate to the file `z0_experiment.ipynb` in the repository and open in jupyter.
+2. navigate to the file `z0_experiment_Philipp_Bronner_Lukas_Grunwald.ipynb` in the repository and open in jupyter.
 
 3. Run the code cells from top to bottom (in order)
 
